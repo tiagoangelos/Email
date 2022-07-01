@@ -1,2 +1,2 @@
 # Gmail_Python_OutLook
-Aplicação Para Enviar Gmail Via Out-Look, feita Em Python
+Aplicação Em Python Para Enviar Email. Pré Requisito: outLook, e Python
